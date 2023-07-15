@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN stack & Golang**
 
-- 💬 Ask me about **Full stack Web Development, C++, Golang, Python**
+- 💬 Ask me about **Full stack Web Development, C++, Golang, Java**
 
 - 📫 Let's connect: **<a href = "https://linktr.ee/amarsansil" > Everywhere </a>**
 
