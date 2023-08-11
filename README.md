@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/amarsansil" target="blank"><img src="https://img.shields.io/twitter/follow/amarsansil?logo=twitter&style=for-the-badge" alt="amarsansil" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack & Golang**
+- 🌱 I’m currently learning **MERN stack & Flutter**
 
-- 💬 Ask me about **Full stack Web Development, C++, Golang, Java**
+- 💬 Ask me about **Full stack Web Development, C++, Java, Flutter**
 
 - 📫 Let's connect: **<a href = "https://linktr.ee/amarsansil" > Everywhere </a>**
 
