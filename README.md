@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bapi Mandal</h1>
 <h3 align="center">Frontend developer || Java || Flutter Developer || Mobile App development</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amarsansil&label=Profile%20views&color=0e75b6&style=flat" alt="bapimandal" /> </p>
+<p align="left"> <img src="" alt="bapimandal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/BapiMan76595572" target="blank"><img src="https://img.shields.io/twitter/follow/bapimandal?logo=twitter&style=for-the-badge" alt="bapimandal" /></a> </p>
 
