@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarsansil&label=Profile%20views&color=0e75b6&style=flat" alt="bapimandal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/BapiMan76595572" target="blank"><img src="https://img.shields.io/twitter/follow/amarsansil?logo=twitter&style=for-the-badge" alt="amarsansil" /></a> </p>
+<p align="left"> <a href="https://twitter.com/BapiMan76595572" target="blank"><img src="https://img.shields.io/twitter/follow/bapimandal?logo=twitter&style=for-the-badge" alt="bapimandal" /></a> </p>
 
 - 🌱 I’m currently learning **MERN stack & Flutter**
 
