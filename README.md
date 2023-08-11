@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Full stack Web Development, C++, Java, Flutter**
 
-- 📫 Let's connect: **<a href = "https://linktr.ee/amarsansil" > Everywhere </a>**
+- 📫 Let's connect: **<a href = "https://linktr.ee/bapi_mandal" > Everywhere </a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
