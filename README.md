@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN stack & Flutter**
 
-- 💬 Ask me about **Full stack Web Development, C++, Java, Flutter**
+- 💬 Ask me about **Android Development, Web Development, C++, Java, Flutter**
 
 - 📫 Let's connect: **<a href = "https://linktr.ee/bapi_mandal" > Everywhere </a>**
 
