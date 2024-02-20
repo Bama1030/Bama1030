@@ -8,6 +8,8 @@ University of Engineering and Management, Jaipur, India
 <div><a href="https://blog.sudipmondal.co.in"><img height="40px" src="./blog-button.png"></img></a></div>
 <div><a href="https://calendly.com/sudip-mondal-2002/15min"><img height="40px" src="./call-button.png"></img></a></div>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 ## Skills
 <div align=right>
     <a href="https://github.com/anuraghazra/github-readme-stats">
