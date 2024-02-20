@@ -1,9 +1,9 @@
 # Bapi Mandal                                                                       
-4th year, B.Tech Civil Engineering                                                    
-Indian Institute of Technology, Madras, India                                       
+4th year, B.Tech Computer Science and Engineering                                                    
+University of Engineering and Management, Jaipur, India                                       
 [E-mail](mailto:bapimandal12340@gmail.com) | [LinkedIn](https://www.linkedin.com/in/bapi-mandal-2247161b7/) | [Facebook]() | [Instagram]() | [Twitter]() | [YouTube]() | [GitHub]()
 
-[![committers.top badge](https://user-badge.committers.top/india/sudip-mondal-2002.svg)](https://user-badge.committers.top/india/sudip-mondal-2002.svg)
+[![committers.top badge](https://user-badge.committers.top/india/Bama1030.svg)](https://user-badge.committers.top/india/Bama1030.svg)
 <div><a href="https://www.sudipmondal.co.in"><img height="40px" src="./portfolio-button.png"></img></a></div>
 <div><a href="https://blog.sudipmondal.co.in"><img height="40px" src="./blog-button.png"></img></a></div>
 <div><a href="https://calendly.com/sudip-mondal-2002/15min"><img height="40px" src="./call-button.png"></img></a></div>
@@ -15,11 +15,11 @@ Indian Institute of Technology, Madras, India
     </a>
 </div>
 
-* Web and Mobile application Development 
-* DevOps Engineering, Process Automation, Version control
-* Programming Languages: C++, C, Python, JavaScript, Java.
+* Web and Mobile application Development
+* React.js Development 
+* DevOps Engineering, Version control
+* Programming Languages: Java, JavaScript.
 * Low level and High level system design
-* Cloud computation
 * Full stack software engineering
 * Simulation and Modelling
 
@@ -94,12 +94,3 @@ Indian Institute of Technology, Madras, India
 
 
 
-
-
-## Badges 
-
-<div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=sudip-mondal-2002&theme=onedark&column=11" alt="zumrudu-anka" />
-    </a>
-</div>
