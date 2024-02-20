@@ -5,7 +5,7 @@ University of Engineering and Management, Jaipur, India
 
 [E-mail](mailto:bapimandal12340@gmail.com) | [LinkedIn](https://www.linkedin.com/in/bapi-mandal-2247161b7/) | [Facebook]() | [Instagram]() | [Twitter]() | [YouTube]() | [GitHub]()
 
-[![committers.top badge](https://user-badge.committers.top/india/Bama1030.svg)](https://user-badge.committers.top/india/Bama1030.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bama1030&label=Profile%20views&color=0e75b6&style=flat" alt="bama1030" /> </p>
 <div><a href="https://bama1030.github.io/myportfolio/"><img height="40px" src="./portfolio-button.png"></img></a></div>
 <div><a href=""><img height="40px" src="./blog-button.png"></img></a></div>
 <div><a href=""><img height="40px" src="./call-button.png"></img></a></div>
@@ -14,7 +14,7 @@ University of Engineering and Management, Jaipur, India
 
 ## Skills
 <div align=right>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="">
       <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bama1030&theme=highcontrast&langs_count=10&layout=compact" />
     </a>
 </div>
