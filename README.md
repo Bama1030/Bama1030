@@ -26,7 +26,7 @@ University of Engineering and Management, Jaipur, India
 * Programming Languages: **Java, JavaScript.**
 * **Full stack software engineering**
 * 
-* 
+
 
 ## Tools and Technologies
 
