@@ -1,6 +1,6 @@
 # Bapi Mandal   
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-**4th year, B.Tech Computer Science and Engineering**                                                   
+4th year, B.Tech Computer Science and Engineering                                                   
 University of Engineering and Management, Jaipur, India   
 
 [E-mail](mailto:bapimandal12340@gmail.com) | [LinkedIn](https://www.linkedin.com/in/bapi-mandal-2247161b7/) | [Facebook]() | [Instagram]() | [Twitter]() | [YouTube]() | [GitHub]()
@@ -84,6 +84,8 @@ University of Engineering and Management, Jaipur, India
 
 <p/>
 
-<p align="center"> 
-    **Thank you for visit My Github Profile** 
-</p> 
+
+
+
+
+
