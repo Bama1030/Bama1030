@@ -12,7 +12,7 @@ University of Engineering and Management, Jaipur, India
 
 
 
-## Skills
+# Skills
 <div align=right>
     <a href="">
       <img width=320 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bama1030&theme=highcontrast&langs_count=10&layout=compact" />
@@ -29,7 +29,7 @@ University of Engineering and Management, Jaipur, India
 
 
 
-## Tools and Technologies
+# Tools and Technologies
 
 <a href="" title="Go to Source">
       <img align="right" width=385 src="https://github-readme-stats.vercel.app/api?username=Bama1030&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true&count_private=true"/>
