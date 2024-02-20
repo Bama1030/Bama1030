@@ -1,6 +1,7 @@
 # Bapi Mandal                                                                       
 4th year, B.Tech Computer Science and Engineering                                                    
-University of Engineering and Management, Jaipur, India                                       
+University of Engineering and Management, Jaipur, India   
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 [E-mail](mailto:bapimandal12340@gmail.com) | [LinkedIn](https://www.linkedin.com/in/bapi-mandal-2247161b7/) | [Facebook]() | [Instagram]() | [Twitter]() | [YouTube]() | [GitHub]()
 
 [![committers.top badge](https://user-badge.committers.top/india/Bama1030.svg)](https://user-badge.committers.top/india/Bama1030.svg)
@@ -8,7 +9,7 @@ University of Engineering and Management, Jaipur, India
 <div><a href="https://blog.sudipmondal.co.in"><img height="40px" src="./blog-button.png"></img></a></div>
 <div><a href="https://calendly.com/sudip-mondal-2002/15min"><img height="40px" src="./call-button.png"></img></a></div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 ## Skills
 <div align=right>
