@@ -19,19 +19,20 @@ University of Engineering and Management, Jaipur, India
     </a>
 </div>
 
-* Web and Mobile application Development
-* React.js Development 
+* 🌱 I’m currently learning **MERN stack & Flutter**
+* **Web and Mobile application Development**
+* **React.js Development** 
 * DevOps Engineering, Version control
-* Programming Languages: Java, JavaScript.
+* Programming Languages: **Java, JavaScript.**
 * Low level and High level system design
-* Full stack software engineering
+* **Full stack software engineering**
 * Simulation and Modelling
 
 
 ## Tools and Technologies
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=sudip-mondal-2002&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true&count_private=true"/>
+<a href="" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Bama1030&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true&count_private=true"/>
  </a>
  
 <p align="left">
@@ -44,9 +45,6 @@ University of Engineering and Management, Jaipur, India
     <a href="https://www.w3schools.com/css/" target="_blank" title ="CSS">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" /> </a>
-    <a href="https://ejs.co/" target="_blank" title ="EJS"> <img
-            src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" alt="Ejs" width="40"
-            height="40" /> </a>
     <a href="https://expressjs.com" target="_blank" title ="Express.js"> <img
             src="https://cdn.buttercms.com/8am8PZECScDawQa33Lv2"
             alt="express" width="40" height="40" /> </a>
@@ -56,18 +54,12 @@ University of Engineering and Management, Jaipur, India
     <a href="https://www.w3.org/html/" target="_blank" title ="html"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="40" height="40" /> </a>
-    <a href="https://ionicframework.com/" target="_blank" title ="Ionic"> <img
-            src="https://cdn-images-1.medium.com/max/1000/1*ZU1eWct801yP-QpUJOaI6Q.png"
-            alt="ionic" width="40" height="40" /> </a>
     <a href="https://www.java.com/en/" target="_blank" title ="java"> <img
             src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg"
             alt="java" width="40" height="40" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a>
-    <a href="https://jwt.io/" target="_blank" title ="JWT"> <img
-            src="https://jwt.io/img/pic_logo.svg"
-            alt="JWT" width="40" height="40" /> </a>
     <a href="https://www.mongodb.com/" target="_blank" title ="MongoDB"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
             alt="mongodb" width="40" height="40" /> </a>
