@@ -6,16 +6,16 @@ University of Engineering and Management, Jaipur, India
 [E-mail](mailto:bapimandal12340@gmail.com) | [LinkedIn](https://www.linkedin.com/in/bapi-mandal-2247161b7/) | [Facebook]() | [Instagram]() | [Twitter]() | [YouTube]() | [GitHub]()
 
 [![committers.top badge](https://user-badge.committers.top/india/Bama1030.svg)](https://user-badge.committers.top/india/Bama1030.svg)
-<div><a href="https://www.sudipmondal.co.in"><img height="40px" src="./portfolio-button.png"></img></a></div>
-<div><a href="https://blog.sudipmondal.co.in"><img height="40px" src="./blog-button.png"></img></a></div>
-<div><a href="https://calendly.com/sudip-mondal-2002/15min"><img height="40px" src="./call-button.png"></img></a></div>
+<div><a href="https://bama1030.github.io/myportfolio/"><img height="40px" src="./portfolio-button.png"></img></a></div>
+<div><a href=""><img height="40px" src="./blog-button.png"></img></a></div>
+<div><a href=""><img height="40px" src="./call-button.png"></img></a></div>
 
 
 
 ## Skills
 <div align=right>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&theme=highcontrast&langs_count=10&layout=compact" />
+      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bama1030&theme=highcontrast&langs_count=10&layout=compact" />
     </a>
 </div>
 
