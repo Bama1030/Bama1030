@@ -25,6 +25,7 @@ University of Engineering and Management, Jaipur, India
 * DevOps Engineering, Version control
 * Programming Languages: **Java, JavaScript.**
 * **Full stack software engineering**
+* 💬 Ask me about **Android Development, Web Development, C++, Java, Flutter**
 
 
 
