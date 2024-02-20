@@ -82,9 +82,9 @@ University of Engineering and Management, Jaipur, India
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a>
     <p/>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bama1030&" alt="bama1030" /></p>
 
 
 <p/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bama1030&" alt="bama1030" /></p>
 
 
