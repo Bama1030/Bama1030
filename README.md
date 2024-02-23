@@ -13,11 +13,6 @@ University of Engineering and Management, Jaipur, India
 
 
 # Skills
-<div align=right>
-    <a href="">
-      <img width=320 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bama1030&theme=highcontrast&langs_count=10&layout=compact" />
-    </a>
-</div>
 
 * 🌱 I’m currently learning **MERN stack & Flutter**
 * **Web and Mobile application Development**
@@ -26,14 +21,15 @@ University of Engineering and Management, Jaipur, India
 * Programming Languages: **Java, JavaScript.**
 * **Full stack software engineering**
 * 💬 Ask me about **Android Development, Web Development, C++, Java, Flutter**
+<div align=right>
+    <a href="">
+      <img width=320 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bama1030&theme=highcontrast&langs_count=10&layout=compact" />
+    </a>
+</div>
 
 
 
 # Tools and Technologies
-
-<a href="" title="Go to Source">
-      <img align="right" width=385 src="https://github-readme-stats.vercel.app/api?username=Bama1030&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true&count_private=true"/>
- </a>
  
 <p align="left">
     <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
@@ -85,6 +81,10 @@ University of Engineering and Management, Jaipur, India
 
 
 <p/>
+
+<a href="" title="Go to Source">
+      <img align="right" width=385 src="https://github-readme-stats.vercel.app/api?username=Bama1030&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true&count_private=true"/>
+ </a>
 
 
 
