@@ -32,6 +32,12 @@ University of Engineering and Management, Jaipur, India
 
 # Tools and Technologies
 
+<div align="right">
+   <a href="" title="Go to Source">
+      <img align="right" width=385 src="https://github-readme-stats.vercel.app/api?username=Bama1030&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true&count_private=true"/>
+   </a>
+</div>
+
  <div align="left" width=310>
     <p align="left">
         <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
@@ -80,12 +86,6 @@ University of Engineering and Management, Jaipur, India
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
                 alt="python" width="40" height="40" /> </a>
         <p/>
-</div>
-
-<div align="right">
-   <a href="" title="Go to Source">
-      <img align="right" width=385 src="https://github-readme-stats.vercel.app/api?username=Bama1030&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true&count_private=true"/>
-   </a>
 </div>
 
 
