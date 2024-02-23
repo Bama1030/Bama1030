@@ -83,9 +83,11 @@ University of Engineering and Management, Jaipur, India
 
 <p/>
 
-<a href="" title="Go to Source">
+<div align=right>
+   <a href="" title="Go to Source">
       <img align="right" width=385 src="https://github-readme-stats.vercel.app/api?username=Bama1030&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true&count_private=true"/>
- </a>
+   </a>
+</div>
 
 
 
