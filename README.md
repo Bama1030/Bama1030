@@ -31,7 +31,8 @@ University of Engineering and Management, Jaipur, India
 
 
 # Tools and Technologies
- 
+
+ <div align=left>
 <p align="left">
     <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -82,6 +83,7 @@ University of Engineering and Management, Jaipur, India
 
 
 <p/>
+</div>
 
 <div align=right>
    <a href="" title="Go to Source">
