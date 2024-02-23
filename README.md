@@ -13,7 +13,11 @@ University of Engineering and Management, Jaipur, India
 
 
 # Skills
-
+<div align=right>
+    <a href="">
+      <img width=320 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bama1030&theme=highcontrast&langs_count=10&layout=compact" />
+    </a>
+</div>
 * 🌱 I’m currently learning **MERN stack & Flutter**
 * **Web and Mobile application Development**
 * **React.js Development** 
@@ -21,11 +25,6 @@ University of Engineering and Management, Jaipur, India
 * Programming Languages: **Java, JavaScript.**
 * **Full stack software engineering**
 * 💬 Ask me about **Android Development, Web Development, C++, Java, Flutter**
-<div align=right>
-    <a href="">
-      <img width=320 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bama1030&theme=highcontrast&langs_count=10&layout=compact" />
-    </a>
-</div>
 
 
 
