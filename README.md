@@ -7,7 +7,6 @@ University of Engineering and Management, Jaipur, India
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bama1030&label=Profile%20views&color=0e75b6&style=flat" alt="bama1030" /> </p>
 <div><a href="https://bama1030.github.io/myportfolio/"><img height="40px" src="./portfolio-button.png"></img></a></div>
-<div><a href=""><img height="40px" src="./blog-button.png"></img></a></div>
 <div><a href=""><img height="40px" src="./call-button.png"></img></a></div>
 
 
