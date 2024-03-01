@@ -1,5 +1,5 @@
 # Bapi Mandal   
-<img align="right" alt="Coding" width="350" height="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 4th year, B.Tech Computer Science and Engineering <br/>                                                  
 University of Engineering and Management, Jaipur, India   
 
