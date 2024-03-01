@@ -78,9 +78,6 @@ University of Engineering and Management, Jaipur, India
         <a href="https://postman.com" target="_blank" title ="Postman"> <img
                 src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
                 height="40" /> </a>
-        <a href="https://www.python.org" target="_blank" title ="Python"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                alt="python" width="40" height="40" /> </a>
         <p/>
 </div>
 
