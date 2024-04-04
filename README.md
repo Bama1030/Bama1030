@@ -6,7 +6,7 @@ University of Engineering and Management, Jaipur, India
 [E-mail](mailto:bapimandal12340@gmail.com) | [LinkedIn](https://www.linkedin.com/in/bapi-mandal-2247161b7/) | [Instagram](https://www.instagram.com/bapi_mandal28/) | [GitHub](https://github.com/Bama1030/) | [Twitter]() | [YouTube]() | 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bama1030&label=Profile%20views&color=0e75b6&style=flat" alt="bama1030" /> </p>
-<div><a href="https://bama1030.github.io/myportfolio/"><img height="40px" src="./portfolio-button.png"></img></a></div>
+<div><a href="https://portfolio-git-master-bapi-mandal.vercel.app/"><img height="40px" src="./portfolio-button.png"></img></a></div>
 <div><a href=""><img height="40px" src="./call-button.png"></img></a></div>
 
 
